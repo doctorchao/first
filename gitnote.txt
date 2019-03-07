@@ -36,3 +36,5 @@ git push -u origin master    -u表示默认  推送到 origin master分支
 克隆下载远程库数据
 git clone 加远程仓库地址
 在克隆文件路径下 git pull 可拉取更新后远程库
+
+pull updata 测试文字段。。。
