@@ -38,3 +38,19 @@ git clone 加远程仓库地址
 在克隆文件路径下 git pull 可拉取更新后远程库
 
 pull updata 测试文字段。。。
+git status  查看git的状态
+git log  查看版本历史
+git chekout -- <file> 将操作回滚（工作区的修改放弃）
+git reset --hard commitID  回到某个版本
+git reset HEAD file  （将暂存区的文件移除）
+git init
+git add 
+git commit -M ""
+git remote add origin master 远程仓库的地址
+git push -u origin master
+
+分支应用场景
+请参考当日视频描述~~~
+
+
+
