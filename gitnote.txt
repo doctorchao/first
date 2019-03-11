@@ -49,6 +49,8 @@ git commit -M ""
 git remote add origin master 远程仓库的地址
 git push -u origin master
 
+rm -rf .git  删除/撤销初始化仓库  当前cd下
+
 分支应用场景
 请参考当日视频描述~~~
 
